@@ -1,0 +1,14 @@
+E:\IBM\C#\C#_save\3.C#高级\Demo3\Demo3\bin\Debug\Demo3.exe.config
+E:\IBM\C#\C#_save\3.C#高级\Demo3\Demo3\bin\Debug\Demo3.exe
+E:\IBM\C#\C#_save\3.C#高级\Demo3\Demo3\bin\Debug\Demo3.pdb
+E:\IBM\C#\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+E:\IBM\C#\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+E:\IBM\C#\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.exe
+E:\IBM\C#\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.pdb
+G:\unity\C#_save\3.C#高级\Demo3\Demo3\bin\Debug\Demo3.exe.config
+G:\unity\C#_save\3.C#高级\Demo3\Demo3\bin\Debug\Demo3.exe
+G:\unity\C#_save\3.C#高级\Demo3\Demo3\bin\Debug\Demo3.pdb
+G:\unity\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+G:\unity\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+G:\unity\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.exe
+G:\unity\C#_save\3.C#高级\Demo3\Demo3\obj\Debug\Demo3.pdb

@@ -1,0 +1,7 @@
+G:\unity\C#_save\4.C#网络通信\ClientTest\ClientTest\bin\Debug\ClientTest.exe.config
+G:\unity\C#_save\4.C#网络通信\ClientTest\ClientTest\bin\Debug\ClientTest.exe
+G:\unity\C#_save\4.C#网络通信\ClientTest\ClientTest\bin\Debug\ClientTest.pdb
+G:\unity\C#_save\4.C#网络通信\ClientTest\ClientTest\obj\Debug\ClientTest.csprojAssemblyReference.cache
+G:\unity\C#_save\4.C#网络通信\ClientTest\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+G:\unity\C#_save\4.C#网络通信\ClientTest\ClientTest\obj\Debug\ClientTest.exe
+G:\unity\C#_save\4.C#网络通信\ClientTest\ClientTest\obj\Debug\ClientTest.pdb

@@ -1,0 +1,9 @@
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\bin\Debug\Demo2.exe.config
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\bin\Debug\Demo2.exe
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\bin\Debug\Demo2.pdb
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\obj\Debug\Demo2.csprojAssemblyReference.cache
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\obj\Debug\Demo2.exe
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\obj\Debug\Demo2.pdb
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\bin\Debug\MySql.Data.dll
+E:\IBM\C#\C#_save\2.C#常用的API\Demo2\Demo2\obj\Debug\Demo2.csproj.CopyComplete

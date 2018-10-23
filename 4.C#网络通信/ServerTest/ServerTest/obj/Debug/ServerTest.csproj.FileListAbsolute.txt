@@ -1,0 +1,7 @@
+G:\unity\C#_save\4.C#网络通信\ServerTest\ServerTest\bin\Debug\ServerTest.exe.config
+G:\unity\C#_save\4.C#网络通信\ServerTest\ServerTest\bin\Debug\ServerTest.exe
+G:\unity\C#_save\4.C#网络通信\ServerTest\ServerTest\bin\Debug\ServerTest.pdb
+G:\unity\C#_save\4.C#网络通信\ServerTest\ServerTest\obj\Debug\ServerTest.csprojAssemblyReference.cache
+G:\unity\C#_save\4.C#网络通信\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.CoreCompileInputs.cache
+G:\unity\C#_save\4.C#网络通信\ServerTest\ServerTest\obj\Debug\ServerTest.exe
+G:\unity\C#_save\4.C#网络通信\ServerTest\ServerTest\obj\Debug\ServerTest.pdb

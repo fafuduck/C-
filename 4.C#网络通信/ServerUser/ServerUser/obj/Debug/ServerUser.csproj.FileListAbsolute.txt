@@ -1,0 +1,11 @@
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\bin\Debug\ServerUser.exe.config
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\bin\Debug\ServerUser.exe
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\bin\Debug\ServerUser.pdb
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\bin\Debug\MySql.Data.dll
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\bin\Debug\ProtocolTest.dll
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\bin\Debug\ProtocolTest.pdb
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\obj\Debug\ServerUser.csprojAssemblyReference.cache
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\obj\Debug\ServerUser.csproj.CoreCompileInputs.cache
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\obj\Debug\ServerUser.csproj.CopyComplete
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\obj\Debug\ServerUser.exe
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ServerUser\obj\Debug\ServerUser.pdb

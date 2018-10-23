@@ -1,0 +1,8 @@
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ProtocolTest\obj\Debug\ProtocolTest.csproj.CoreCompileInputs.cache
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ProtocolTest\bin\Debug\ProtocolTest.dll
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ProtocolTest\bin\Debug\ProtocolTest.pdb
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ProtocolTest\obj\Debug\ProtocolTest.dll
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ProtocolTest\obj\Debug\ProtocolTest.pdb
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ProtocolTest.dll
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ProtocolTest.pdb
+E:\IBM\C#\C#_save\4.C#网络通信\ServerUser\ProtocolTest\obj\Debug\ProtocolTest.csprojAssemblyReference.cache

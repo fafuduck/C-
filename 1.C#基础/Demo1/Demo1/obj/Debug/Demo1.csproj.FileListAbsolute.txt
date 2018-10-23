@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C#_save\Demo1\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\Administrator\Desktop\C#_save\Demo1\Demo1\bin\Debug\Demo1.exe
+C:\Users\Administrator\Desktop\C#_save\Demo1\Demo1\bin\Debug\Demo1.pdb
+C:\Users\Administrator\Desktop\C#_save\Demo1\Demo1\obj\Debug\Demo1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_save\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_save\Demo1\Demo1\obj\Debug\Demo1.exe
+C:\Users\Administrator\Desktop\C#_save\Demo1\Demo1\obj\Debug\Demo1.pdb
+G:\unity\C#_save\Demo1\Demo1\bin\Debug\Demo1.exe.config
+G:\unity\C#_save\Demo1\Demo1\bin\Debug\Demo1.exe
+G:\unity\C#_save\Demo1\Demo1\bin\Debug\Demo1.pdb
+G:\unity\C#_save\Demo1\Demo1\obj\Debug\Demo1.csprojAssemblyReference.cache
+G:\unity\C#_save\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+G:\unity\C#_save\Demo1\Demo1\obj\Debug\Demo1.exe
+G:\unity\C#_save\Demo1\Demo1\obj\Debug\Demo1.pdb

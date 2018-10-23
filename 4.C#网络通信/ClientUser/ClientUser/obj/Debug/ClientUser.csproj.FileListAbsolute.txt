@@ -1,0 +1,10 @@
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\bin\Debug\ClientUser.exe.config
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\bin\Debug\ClientUser.exe
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\bin\Debug\ClientUser.pdb
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\bin\Debug\ProtocolTest.dll
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\bin\Debug\ProtocolTest.pdb
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\obj\Debug\ClientUser.csprojAssemblyReference.cache
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\obj\Debug\ClientUser.csproj.CoreCompileInputs.cache
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\obj\Debug\ClientUser.csproj.CopyComplete
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\obj\Debug\ClientUser.exe
+E:\IBM\C#\C#_save\4.C#网络通信\ClientUser\ClientUser\obj\Debug\ClientUser.pdb
